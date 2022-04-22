@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mubaris
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
+- 👀 backend developer
+- 🌱 Django
 - 📫 How to reach me mubarikunnath@gmail.com
 
 <!---
